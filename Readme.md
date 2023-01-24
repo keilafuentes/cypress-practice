@@ -1,4 +1,4 @@
-#Cypress Practice
+# Cypress Practice
 
 Install Cypress for Mac, Linux, or Windows
 
